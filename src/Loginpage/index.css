@@ -1,0 +1,52 @@
+.heading {
+    font-size: 2em;
+    color: #0f0;
+    text-transform: uppercase;
+}
+
+.heading-container, .button-container {
+    text-align: center;
+}
+
+.main-background {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input-box-each-container {
+    margin: 10px;
+}
+
+.input-container {
+    outline: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+}
+.input-box-container {
+    position: relative;
+    width: 100%;
+    background: #333;
+    border: none;
+    outline: none;
+    padding: 25px 10px 7.5px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.submit-button {
+    padding: 10px;
+    background: #0f0;
+    color: #000;
+    font-weight: 600;
+    font-size: 1.05em;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}

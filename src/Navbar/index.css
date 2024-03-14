@@ -1,0 +1,29 @@
+.main-background-navbar {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/026/187/621/original/gradient-dynamic-purple-lines-background-free-vector.jpg');
+    height: 100px;
+    background-size: cover;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-container-navbar {
+    display: flex;
+    gap: 10px;
+}
+
+.main-heading-navbar {
+    font-size: 25px;
+    
+}
+
+.button-navbar {
+    color: #212529;
+    background-color: #7cc;
+    border-color: #5bc2c2;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
