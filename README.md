@@ -1,7 +1,7 @@
 #details of login
 
-username : vinay
-password : Vinay1919
+# username : vinay
+# password : Vinay1919
 
 # Getting Started with Create React App
 
